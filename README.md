@@ -1,1 +1,1 @@
-tokenize.cx
+[tokenize.cx]
